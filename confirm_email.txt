@@ -1,0 +1,5 @@
+Hello,
+We received your request for reset the password in our application.
+If it was you, please go to this link --> https://triperadvise.firebaseapp.com/__/auth/action?mode=resetPassword&oobCode=UPYLVE8PDQTIidHo1qpd8MgbGff1JQq01D1o3qgZT60AAAF-OOXT3w&apiKey=AIzaSyBCs37bq0qIIgyRC77AOBMKlwZdR6eqFNI&lang=en
+If it was bot you, just ignore this e-mail.
+We are glad that you are with us.
