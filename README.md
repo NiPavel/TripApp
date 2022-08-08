@@ -14,7 +14,7 @@ After installation open all the files in the program and run the driver with Ctr
 
 # User Interface
 Login
-![UI](https://github.com/NiPavel/TripApp/blob/photos/userlogin.png?raw=true)
+![UI](https://github.com/NiPavel/TripApp/blob/photos/userlogIn.png?raw=true)
 
 List of the cities
 ![List of the cities](https://github.com/NiPavel/TripApp/blob/photos/UserInterface.png?raw=true)
