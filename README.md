@@ -7,3 +7,5 @@ Description: The program is planing the trip for user and dispalays how much wil
 4.How to Run the program: To run the program you have to install PyCharm.
 
 After installation open all the files in the program and run the driver with Ctrl+Shift+F10.
+
+![alt text](https://github.com/NiPavel/TripApp/blob/main/Main menu.png?raw=true)
