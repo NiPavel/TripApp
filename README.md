@@ -13,17 +13,17 @@ After installation open all the files in the program and run the driver with Ctr
 ![Main menu](https://github.com/NiPavel/TripApp/blob/photos/Mainmenu.png?raw=true)
 
 # User Interface
-Login
+<b>Login</b><br>
 ![UI](https://github.com/NiPavel/TripApp/blob/photos/userlogIn.png?raw=true)
 
-List of the cities
+<b>List of the cities</b><br>
 ![List of the cities](https://github.com/NiPavel/TripApp/blob/photos/UserInterface.png?raw=true)
 
-List of the plcaes, attractions, resturants, etc
+<b>List of the plcaes, attractions, resturants, etc</b>
 ![Attraction list](https://github.com/NiPavel/TripApp/blob/photos/UserInterface1.png?raw=true)
 
-Info about the scpecific place
+<b>Info about the scpecific place</b>
 ![Place's Info](https://github.com/NiPavel/TripApp/blob/photos/UserInterface2.png?raw=true)
 
-User's cart of buying
+<b>User's cart of buying</b>
 ![User's cart](https://github.com/NiPavel/TripApp/blob/photos/UserInterface3.png?raw=true)
