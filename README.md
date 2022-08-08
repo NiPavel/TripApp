@@ -10,7 +10,8 @@ After installation open all the files in the program and run the driver with Ctr
 
 
 # Main Menu
-![Main menu](https://github.com/NiPavel/TripApp/blob/photos/Mainmenu.png?raw=true)
+![Main menu](https://github.com/NiPavel/TripApp/blob/photos/Mainmenu.png?raw=true)<br>
+![Registration](https://github.com/NiPavel/TripApp/blob/photos/Registration.png?raw=true)
 
 # User Interface
 <b>Login</b><br>
@@ -27,3 +28,32 @@ After installation open all the files in the program and run the driver with Ctr
 
 <b>User's cart of buying</b>
 ![User's cart](https://github.com/NiPavel/TripApp/blob/photos/UserInterface3.png?raw=true)
+
+# Moderator Interface
+<b>Login</b><br>
+![MI](https://github.com/NiPavel/TripApp/blob/photos/moderatorlogIn.png?raw=true)
+
+<b>List of the cities to edit</b><br>
+![List of the cities to edit](https://github.com/NiPavel/TripApp/blob/photos/ModeratorInterface.png?raw=true)
+
+<b>Choose what to change/add in the specific city</b><br>
+![What to do](https://github.com/NiPavel/TripApp/blob/photos/ModeratorInterface1.png?raw=true)
+
+<b>Adding something</b><br>
+![Adding](https://github.com/NiPavel/TripApp/blob/photos/ModeratorInterface2.png?raw=true)
+ 
+ <b>Deliting something</b><br>
+![Deleting](https://github.com/NiPavel/TripApp/blob/photos/ModeratorInterface3.png?raw=true)
+
+# Administrator Interface
+<b>Login</b><br>
+![Admin Login](https://github.com/NiPavel/TripApp/blob/photos/adminlogIn.png?raw=true)
+
+<b>Type of users in app</b><br>
+![List of user's types ](https://github.com/NiPavel/TripApp/blob/photos/AdminInterface.png?raw=true)
+
+<b>List of the users in the specific type</b><br>
+![List of the users](https://github.com/NiPavel/TripApp/blob/photos/AdminInterface1.png?raw=true)
+
+<b>Info about specific user, options with the user</b><br>
+![User's info and options](https://github.com/NiPavel/TripApp/blob/photos/AdminInterface2.png?raw=true)
