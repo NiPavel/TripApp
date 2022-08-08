@@ -8,4 +8,4 @@ Description: The program is planing the trip for user and dispalays how much wil
 
 After installation open all the files in the program and run the driver with Ctrl+Shift+F10.
 
-![alt text](https://github.com/NiPavel/TripApp/blob/main/Main menu.png?raw=true)
+![alt text](https://github.com/NiPavel/TripApp/blob/main/Mainmenu.png?raw=true)
